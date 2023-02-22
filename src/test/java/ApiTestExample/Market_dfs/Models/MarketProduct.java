@@ -1,0 +1,10 @@
+package ApiTestExample.Market_dfs.Models;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
+public class MarketProduct {
+    public String id;
+    public String name;
+    public String status;
+}
