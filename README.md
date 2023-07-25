@@ -7,4 +7,4 @@ Ui test uses Selenide (more convenient selenium)
 
 Descriprion:
 1) Api tests recursively goes through all categories and subcategories using dfs, after which it reads the response body for each individual product in the vlife.kz store
-2) Ui tests... (not implemented ye)
+2) Ui tests... (not implemented yet)
